@@ -63,12 +63,4 @@ Desenvolvimento de Sistemas.**
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original-wordmark.svg" 
-/>    
-<img 
-    align="left" 
-    alt="Windows" 
-    title="Windows"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" 
-/>    
+/>
