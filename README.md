@@ -28,10 +28,9 @@
 
 ## 🤖 Languages and Technologies
 
-<div style="display: inline_block"><br>
+<p align="left">
 
 <img 
-    align="center" 
     alt="HTML"
     title="HTML" 
     width="40px" 
@@ -39,7 +38,6 @@
 />
 
 <img 
-    align="center" 
     alt="CSS" 
     title="CSS"
     width="40px" 
@@ -47,7 +45,6 @@
 />
 
 <img 
-    align="center" 
     alt="JavaScript" 
     title="JavaScript"
     width="40px" 
@@ -55,7 +52,6 @@
 />
 
 <img 
-    align="center" 
     alt="Python" 
     title="Python"
     width="40px" 
@@ -63,7 +59,6 @@
 />
 
 <img 
-    align="center" 
     alt="Kali Linux" 
     title="Kali Linux"
     width="40px" 
@@ -71,15 +66,44 @@
 />
 
 <img 
-    align="center" 
     alt="Ubuntu" 
     title="Ubuntu"
     width="40px" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" 
 />
 
+</p>
+
+---
+
+## 📚 Currently Learning
+
+- Ethical Hacking
+- APIs & Backend
+- Artificial Intelligence
+- Mobile Development
+- System Automation
+- Cybersecurity
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api?username=GabrielGomes1033&show_icons=true&theme=tokyonight&hide_border=true"
+/>
+
+<img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielGomes1033&layout=compact&theme=tokyonight&hide_border=true"
+/>
+
 </div>
 
+---
 
 ## 🔥 Contributions
 
